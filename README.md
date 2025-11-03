@@ -47,3 +47,5 @@ Browser-based E2E tests using Playwright
 Ready-to-use CI pipeline
 
 Lightweight UI with live calculation
+
+python -m uvicorn app.main:app --reload (for running the website)
